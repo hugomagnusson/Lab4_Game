@@ -19,11 +19,13 @@ public class BatGame {
 		
 		BatGame batgame = new BatGame();
 		
+		System.out.println("hello git how are you doing");
+		
 		Start.startText();
 		
 		batgame.init();
 		
-		System.out.println("hello git");
+		
 
 		
 
